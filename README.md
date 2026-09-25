@@ -1,20 +1,19 @@
-🧠 QuizApp - Flutter & GetX
-A modern, interactive, and fully dynamic Quiz Application built with Flutter and GetX state management. The app delivers a seamless user experience with real-time score tracking, dynamic category questions, and a personalized performance result screen.
+# 🧠 Quiz App
 
-✨ Features
-🎯 Dynamic Quiz Flow: Smooth navigation through questions with instant option selection and feedback.
+A modern and interactive Quiz Application built with **Flutter** and **GetX** for dynamic state management and clean UI rendering.
 
-⚡ GetX State Management: Efficient state handling for score tracking, active category selection, and question indices.
+## 🚀 Features
 
-🏆 Adaptive Result Screen: Custom-styled performance card featuring a dynamic double-circle score indicator (CircleAvatar) and adaptive feedback icons based on performance percentages.
+* **Dynamic Question Flow:** Smooth navigation between questions with real-time answer selection.
+* **State Management:** Powered by **GetX** to handle active categories, question states, and score updates efficiently.
+* **Custom Performance UI:** Dynamic score card and result screen with custom badges and feedback icons based on performance.
+* **Clean Code Architecture:** Modular structure with clear separation of Controllers, Models, Views, and Widgets.
 
-🎨 Clean & Modern UI: Designed with soft shadows, custom cards, and a cohesive color palette for high visual appeal.
+## 🛠️ Tech Stack
 
-🔄 Reset & Replay: Easy quiz restart functionality resetting state effortlessly back to the main flow.
+* **Framework:** Flutter (Dart)
+* **State Management:** GetX
+* **UI Components:** Custom Widgets & Adapting Assets
 
-🛠️ Tech Stack & Architecture
-Framework: Flutter (Dart)
-
-State Management & Navigation: GetX
-
-Architecture: Controller-View Pattern (Separation of UI & Business Logic)
+---
+*Developed as part of the Digital Egypt Pioneers Initiative (DEPI).*
