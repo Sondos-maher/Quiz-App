@@ -1,17 +1,20 @@
-# quiz_app_repo
+🧠 QuizApp - Flutter & GetX
+A modern, interactive, and fully dynamic Quiz Application built with Flutter and GetX state management. The app delivers a seamless user experience with real-time score tracking, dynamic category questions, and a personalized performance result screen.
 
-A new Flutter project.
+✨ Features
+🎯 Dynamic Quiz Flow: Smooth navigation through questions with instant option selection and feedback.
 
-## Getting Started
+⚡ GetX State Management: Efficient state handling for score tracking, active category selection, and question indices.
 
-This project is a starting point for a Flutter application.
+🏆 Adaptive Result Screen: Custom-styled performance card featuring a dynamic double-circle score indicator (CircleAvatar) and adaptive feedback icons based on performance percentages.
 
-A few resources to get you started if this is your first Flutter project:
+🎨 Clean & Modern UI: Designed with soft shadows, custom cards, and a cohesive color palette for high visual appeal.
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+🔄 Reset & Replay: Easy quiz restart functionality resetting state effortlessly back to the main flow.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+🛠️ Tech Stack & Architecture
+Framework: Flutter (Dart)
+
+State Management & Navigation: GetX
+
+Architecture: Controller-View Pattern (Separation of UI & Business Logic)
